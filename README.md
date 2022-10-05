@@ -45,4 +45,4 @@ rm sub1.fastq.trimmed sub2.fastq.trimmed subR1.fastq.int_trimmed subR2.fastq.int
 ![image](https://user-images.githubusercontent.com/95979982/194155715-f2f50ad7-6d6c-4ba0-999f-721917857f5b.png)
 
 ### Ссылка на коллаб с кодом для анализа
-[Google Collab](https://colab.research.google.com/drive/1iY2SLM_8KBf2VQhhWCsqkHsBGkRBe2Ow)
+[Google Collab](https://colab.research.google.com/drive/1FcyT6aLK6eWTwwlNIvzM10TjOfY2Dy35?usp=sharing)
